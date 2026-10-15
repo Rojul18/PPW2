@@ -1,0 +1,10 @@
+streamlit>=1.50
+pandas
+numpy
+requests
+beautifulsoup4
+gensim
+scikit-learn
+plotly
+joblib
+PySastrawi
